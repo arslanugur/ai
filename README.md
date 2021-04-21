@@ -37,6 +37,10 @@ Chapter 3: Real world AI
 
 I. Odds and probability
 
+ - Exercise 8: Probabilistic forecasts
+
+ - Exercise 9: Odds
+
 II. The Bayes rule
 
 III. Naive Bayes classification

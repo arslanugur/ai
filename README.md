@@ -1,32 +1,14 @@
-|          Elements of Artificial Intelligence by University of Helsinki       |
+Elements of Artificial Intelligence by University of Helsinki
 |Chapter|            Subject          |           Section             |                Exercise              |
 | :---: | :-------------------------: | :----------------------------: | :-------------------------------: |
 |   1   |         What is AI?         |   I. How should we define AI? |[Exercise 1: Is this AI or not?](/Exercise01-IsThisAIorNot.txt)| 
 |   1   |         What is AI?         |   II. Related fields          |[Exercise 2: Taxonomy of AI](/Exercise02-TaxonomyOfAI.txt), [Exercise 3: Examples of tasks](/Exercise03-ExamplesOfTasks.txt)| 
 |   1   |         What is AI?         |   III. Philosophy of AI       |[Exercise 4: Definitions, definitions](/Exercise04-DefinitionsDefinitions.txt)| 
-|   1   |         What is AI?         |   I. How should we define AI? |[*](https://github.com/arslanugur/)| 
-|   1   |         What is AI?         |   I. How should we define AI? |[*](https://github.com/arslanugur/)|
+|   2   |         AI problem solving        |  I. Search and problem solving |[Exercise 5: A smaller rowboat](/Exercise05-A-SmallerRowboat.txt), [Exercise 6: The Towers of Hanoi](/Exercise06-TheTowersOfHanoi.txt)| 
+|   2   |         AI problem solving         |   II. Solving problems with AI |[-](https://github.com/arslanugur/)|
+|   2   |         AI problem solving         |   III. Search and gamesIII. Search and games |[Exercise 7: Why so pessimistic, Max?](/Exercise07-WhySoPessimistic%2CMax.txt)|
 
 
-Elements of Artificial Intelligence by University of Helsinki
-
-
-
-Chapter 2: AI problem solving
-
-I. Search and problem solving
-
- - Exercise 5: A smaller rowboat
-
- - Exercise 6: The Towers of Hanoi
-
-II. Solving problems with AI
-
-III. Search and games
-
- - Exercise 7: Why so pessimistic, Max?
-
-###############################
 
 Chapter 3: Real world AI
 

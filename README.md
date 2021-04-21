@@ -1,3 +1,9 @@
+|Chapter|            Subject          |       Hands-on                 | RLabs |          Quiz         |
+| :---: | :-------------------------: | :----------------------------: | :---: | :-------------------: |
+|   1   |         Introduction        |   [pdf](/01.Introduction.pdf)  |[*](https://github.com/arslanugur/)| [Quiz](/01.Introduction.txt)|
+
+
+
 Elements of Artificial Intelligence by University of Helsinki
 
 Chapter 1: What is AI?

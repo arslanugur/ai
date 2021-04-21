@@ -1,0 +1,16 @@
+Apply the Bayes rule to calculate the posterior odds for rain having observed clouds in the morning in Helsinki.
+As we calculated above, the prior odds for rain is 206:159 and the likelihood ratio for observing clouds is 9.
+Give your result in the form of odds, xx:yy, where xx and yy are numbers. 
+(Note that xx and yy does not mean that the numbers should have two digits each.) 
+Remember that when multiplying odds, you should only multiply the numerator (the xx part). 
+For example, if you multiple the odds 5:3 by 5, the result is 25:3. 
+Give the answer without simplifying the expression even if both sides have a common factor.
+---> 1854:159
+ The prior odds are 206:159.
+ The likelihood ratio is 9, so we get the posterior odds for rain given clouds to be 9 × 206:159 = 1854:159. So in the long run, 
+ on the days when we observe clouds in the morning, we can expect 1854 rainy days for every 159 rainless days, 
+ which is about the same as 12 rainy days for one rainless day. 
+ If we wanted to express this as a probability (even though this was not the question), 
+ we could use the formula x / (x+y) to get the value 1854 / (1854+159) which is about 0.92, 
+ or about 92% chance of rain when there are clouds in the morning. 
+ Better take an umbrella.

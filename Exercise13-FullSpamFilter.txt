@@ -1,0 +1,17 @@
+Now use the naive Bayes method to calculate the posterior odds for spam given the message “million dollars adclick conferences”.
+You should again start with the prior odds 1:1, and then multiply the odds repeatedly by the likelihood ratios for each of the four words. 
+Notice that the likelihood ratios are tabulated above for your reference (these are the numbers 5.1, 0.8, and so on).
+Your task: Express the result as posterior odds without any rounding of the result. 
+You may take a look at the solution of the previous exercise for help.
+---> 65.1168
+We start in the same way as the previous exercise. 
+Multiplying the prior odds by the likelihood ratio 5.1 (for the word 'million') gives posterior odds 5.1. 
+Next we'll simply keep multiplying the odds by the likelihood ratios for the rest of the message. 
+The likelihood ratios can be found in the table above: 0.8 ('dollars'), 53.2 ('adclick'), and 0.3 ('conference'). 
+The product of all these numbers equals 1:1 × 5.1 × 0.8 × 53.2 × 0.3 = 65.1168. 
+This means that for messages that include all these four words, 
+there are on the average about 65 spam messages for each ham message, or about 651 spam messages for every 10 ham messages. 
+If we wanted to get the probability value (which was not asked), it is about 651 / (651+10) = 651 / 661 or approximately 98.5 %. 
+This message would probably end up in your junk mail folder.
+
+the technique used every day in a wide range of real-world AI applications, "the naive Bayes classifier"

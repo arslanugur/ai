@@ -1,0 +1,24 @@
+Let's do another puzzle: the well-known Towers of Hanoi. In our version, the puzzle involves three pegs, and two discs: one large, and one small (actually, there can be any number of discs but for the exercise, two is enough to demonstrate the principle).
+
+In the initial state, both discs are stacked in the first (leftmost) peg. The goal is to move the discs to the third peg. You can move one disc at a time, from any peg to another, as long as there is no other disc on top of it. It is not allowed to put a larger disc on top of a smaller disc.
+
+This picture shows the initial state and the goal state. There are also seven other states so that the total number of possible states is nine: three ways to place the large disc and for each of them, three ways to place the small disc.
+
+
+Your task: Draw the state diagram. The diagram should include all the nine possible states in the game, connected by lines that show the possible transitions. The picture below shows the overall structure of the state diagram and the positions of the first three states. It shows that from the starting state (at the top corner), you can move to two other states by moving the small disc. Complete the state diagram by placing the remaining states in the correct places. Note that the transitions are again symmetric and you can also move sideways (left or right) or up in the diagram.
+
+After solving the task using pen and paper, enter your solution by choosing which state belongs to which node in the diagram. (Hint: Each state belongs to exactly one node).
+
+Choose for each node (1–6) in the above diagram the correct state A—F from below.
+What state should be in box 1? 
+---> State E
+What state should be in box 2?
+---> State B
+What state should be in box 3?
+---> State F
+What state should be in box 4?
+---> State D
+What state should be in box 5?
+---> State C
+What state should be in box 6?
+---> State A

@@ -1,8 +1,10 @@
-|Chapter|            Subject          |           Sections             |                RLabs              |             Quiz            |
-| :---: | :-------------------------: | :----------------------------: | :-------------------------------: | :-------------------------: |
-|   1   |         What is AI?         |   I. How should we define AI?
-                                        II. Related fields |[*](https://github.com/arslanugur/)| [Quiz](/01.Introduction.txt)|
-
+|Chapter|            Subject          |           Section             |                Exercise              |
+| :---: | :-------------------------: | :----------------------------: | :-------------------------------: |
+|   1   |         What is AI?         |   I. How should we define AI? |[Exercise 1](/Exercise01-IsThisAIorNot.txt)| 
+|   1   |         What is AI?         |   II. Related fields          |[Exercise 2](/Exercise02-TaxonomyOfAI.txt), [Exercise 3](/Exercise03-ExamplesOfTasks.txt)| 
+|   1   |         What is AI?         |   I. How should we define AI? |[*](https://github.com/arslanugur/)| 
+|   1   |         What is AI?         |   I. How should we define AI? |[*](https://github.com/arslanugur/)| 
+|   1   |         What is AI?         |   I. How should we define AI? |[*](https://github.com/arslanugur/)|
 
 
 Elements of Artificial Intelligence by University of Helsinki

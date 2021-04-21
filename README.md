@@ -7,30 +7,11 @@ Elements of Artificial Intelligence by University of Helsinki
 |   2   |         AI problem solving        |  I. Search and problem solving |[Exercise 5: A smaller rowboat](/Exercise05-A-SmallerRowboat.txt), [Exercise 6: The Towers of Hanoi](/Exercise06-TheTowersOfHanoi.txt)| 
 |   2   |         AI problem solving         |   II. Solving problems with AI |[-](https://github.com/arslanugur/)|
 |   2   |         AI problem solving         |   III. Search and gamesIII. Search and games |[Exercise 7: Why so pessimistic, Max?](/Exercise07-WhySoPessimistic%2CMax.txt)|
+|   3   |         Real world AI         |   I. Odds and probability |[Exercise 8: Probabilistic forecasts](/Exercise08-ProbabilisticForecasts.txt), [Exercise 9: Odds](/Exercise09-Odds.txt)| 
+|   3   |         Real world AI         |   II. The Bayes rule      |[Exercise 10: Bayes rule (part 1)](/Exercise10-BayesRule1.txt), [Exercise 11: Bayes rule (part 2)](/Exercise11-BayesRule2.txt)| 
+|   3   |         Real world AI         |   III. Naive Bayes classification |[Exercise 12: One word spam filter](/Exercise12-OneWordSpamFilter.txt), [Exercise 13: Full spam filter](/Exercise13-FullSpamFilter.txt)| 
 
 
-
-Chapter 3: Real world AI
-
-I. Odds and probability
-
- - Exercise 8: Probabilistic forecasts
-
- - Exercise 9: Odds
-
-II. The Bayes rule
-
- - Exercise 10: Bayes rule (part 1 of 2)
-
- - Exercise 11: Bayes rule (part 2 of 2)
-
-III. Naive Bayes classification
-
- - Exercise 12: One word spam filter
-
- - Exercise 13: Full spam filter
-
-###############################
 
 Chapter 4: Machine learning
 

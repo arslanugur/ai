@@ -15,7 +15,7 @@ III. Philosophy of AI
 
  - Exercise 4: Definitions, definitions
 
-##########################################################
+###############################
 
 Chapter 2: AI problem solving
 
@@ -31,7 +31,7 @@ III. Search and games
 
  - Exercise 7: Why so pessimistic, Max?
 
-##########################################################
+###############################
 
 Chapter 3: Real world AI
 
@@ -43,9 +43,17 @@ I. Odds and probability
 
 II. The Bayes rule
 
+ - Exercise 10: Bayes rule (part 1 of 2)
+
+ - Exercise 11: Bayes rule (part 2 of 2)
+
 III. Naive Bayes classification
 
-##########################################################
+ - Exercise 12: One word spam filter
+
+ - Exercise 13: Full spam filter
+
+###############################
 
 Chapter 4: Machine learning
 
@@ -55,7 +63,7 @@ II. The nearest neighbor classifier
 
 III. Regression
 
-##########################################################
+###############################
 
 Chapter 5: Neural networks
 
@@ -65,7 +73,7 @@ II. How neural networks are built
 
 III. Advanced neural network techniques
 
-##########################################################
+###############################
 
 Chapter 6: Implications
 

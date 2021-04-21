@@ -1,8 +1,16 @@
-A taxonomy is a scheme for classifying many things that may be special cases of one another. We have explained the relationships between a number of disciplines or fields and pointed out, for example, that machine learning is usually considered to be a subfield of AI.
-A convenient way to visualize a taxonomy is an Euler diagram. An Euler diagram (closely related to the more familiar Venn diagrams) consists of shapes that corresponds to concepts, which are organized so that overlap between the shapes corresponds to overlap between the concepts (see for example Wikipedia: Euler Diagram).
-Notice that a taxonomy does not need to be strictly hierarchical. A discipline can be a subfield of more than one more general topic: for example, machine learning can also be thought to be a subfield of statistics. In this case, the subfield concept would be placed in the overlap between the more general topics.
+A taxonomy is a scheme for classifying many things that may be special cases of one another. 
+We have explained the relationships between a number of disciplines or fields and pointed out, 
+for example, that machine learning is usually considered to be a subfield of AI.
+A convenient way to visualize a taxonomy is an Euler diagram. 
+An Euler diagram (closely related to the more familiar Venn diagrams) consists of shapes that corresponds to concepts, 
+which are organized so that overlap between the shapes corresponds to overlap between the concepts (see for example Wikipedia: Euler Diagram).
+Notice that a taxonomy does not need to be strictly hierarchical. 
+A discipline can be a subfield of more than one more general topic: 
+for example, machine learning can also be thought to be a subfield of statistics. 
+In this case, the subfield concept would be placed in the overlap between the more general topics.
 
-Your task: Construct a taxonomy in the Euler diagram example given below showing the relationships between the following things: AI, machine learning, computer science, data science, and deep learning.
+Your task: Construct a taxonomy in the Euler diagram example given below showing the relationships between the following things: 
+AI, machine learning, computer science, data science, and deep learning.
 Where would you put AI?
 ---> Section B
 AI is a part of computer science.
@@ -21,7 +29,6 @@ Where would you put data science?
 Data science needs computer science and AI. 
 However, it also involves a lot of statistics, business, law, and other application domains, 
 so it is usually not considered to be a part of computer science.
-
 
 Where would you put deep learning?
 ---> Section D

@@ -1,0 +1,34 @@
+Spreadsheet that calculates sums and other pre-defined functions on given data 
+---> No
+The outcome is determined by the user-specified formula, no AI needed.
+
+Predicting the stock market by fitting a curve to past data about stock prices
+---> Yes
+Fitting a simple curve is not really AI, but there are so many different curves to choose from, 
+even if there's a lot of data to constrain them, that one needs machine learning/AI to get useful results.
+
+A GPS navigation system for finding the fastest route
+---> Yes
+The signal processing and geometry used to determine the coordinates isn't AI, 
+but providing good suggestions for navigation (shortest/fastest routes) is AI, 
+especially if variables such as traffic conditions are taken into account.
+
+A music recommendation system such as Spotify that suggests music based on the users' listening behavior
+---> Yes
+The system learns from the users' (not only your) listening behavior.
+
+Big data storage solutions that can store huge amounts of data (such as images or video) and stream them to many users at the same time
+---> No
+Storing and retrieving specific items from a data collection is neither adaptive or autonomous.
+
+Photo editing features such as brightness and contrast in applications such as Photoshop
+---> No
+Adjustments such as color balance, contrast, and so on, are neither adaptive nor autonomous, 
+but the developers of the application may use some AI to automatically tune the filters.
+
+Style transfer filters in applications such as Prisma that take a photo and transform it into different art styles (impressionist, cubist, ...)
+---> Yes
+Such methods typically learn image statistics 
+(read: what small patches of the image in a certain style look like up close) and transform the input photo so that its statistics match the style, 
+so the system is adaptive.
+

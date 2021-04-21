@@ -1,0 +1,20 @@
+Let's start with a message that only has one word in it: “million”.
+Your task: Calculate the posterior odds for spam given this word using the table above, starting from prior odds 1:1. 
+Keep in mind that the odds is not the same as the probability, which we would usually express as a percentage.
+Give your answer in the form of a single decimal number x.x using the dot '.' as the decimal separator.
+(Remember that odds can be represented as xx:yy or simply as a single decimal number, say z.z (where z.z = xx/yy). 
+You may wish to revisit the discussion on this just before Exercise 9 in Section 3.1 (Odds and Probability).)
+---> 5.1
+As you may have noticed, the structure of this exercise is identical to that of the previous exercise about medical diagnosis. 
+We have the class label spam or ham, and one piece of evidence that we can use to update our prior odds to obtain the posterior odds. 
+We decided above that the prior odds are 1:1. 
+The likelihood ratio is obtained by dividing the probability of the word 'million' in spam divided by the probability of the word 'million' in ham. 
+This we already calculated above, and it can be found in the table of likelihood ratios: the value is 5.1. 
+Now multiply the prior odds by the likelihood ratio to get 1:1 × 5.1 = 5.1. 
+This is the posterior odds. 
+Again, the posterior odds means that for messages that include the word 'million', there are on the average 5.1 spam messages for every ham message. 
+Or to use whole numbers, there are 51 spam messages for every 10 ham messages. 
+The probability value is therefore 51 / (51+10) = 51/61, or approximately 83.6 %.
+
+To handle the rest of the words in a message, we can use exactly the same procedure. 
+The posterior odds after one word, which you calculated in the previous exercise, will become the prior odds for the next word, and so on.

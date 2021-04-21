@@ -1,30 +1,16 @@
+|          Elements of Artificial Intelligence by University of Helsinki       |
 |Chapter|            Subject          |           Section             |                Exercise              |
 | :---: | :-------------------------: | :----------------------------: | :-------------------------------: |
-|   1   |         What is AI?         |   I. How should we define AI? |[Exercise 1](/Exercise01-IsThisAIorNot.txt)| 
-|   1   |         What is AI?         |   II. Related fields          |[Exercise 2](/Exercise02-TaxonomyOfAI.txt), [Exercise 3](/Exercise03-ExamplesOfTasks.txt)| 
-|   1   |         What is AI?         |   I. How should we define AI? |[*](https://github.com/arslanugur/)| 
+|   1   |         What is AI?         |   I. How should we define AI? |[Exercise 1: Is this AI or not?](/Exercise01-IsThisAIorNot.txt)| 
+|   1   |         What is AI?         |   II. Related fields          |[Exercise 2: Taxonomy of AI](/Exercise02-TaxonomyOfAI.txt), [Exercise 3: Examples of tasks](/Exercise03-ExamplesOfTasks.txt)| 
+|   1   |         What is AI?         |   III. Philosophy of AI       |[Exercise 4: Definitions, definitions](/Exercise04-DefinitionsDefinitions.txt)| 
 |   1   |         What is AI?         |   I. How should we define AI? |[*](https://github.com/arslanugur/)| 
 |   1   |         What is AI?         |   I. How should we define AI? |[*](https://github.com/arslanugur/)|
 
 
 Elements of Artificial Intelligence by University of Helsinki
 
-Chapter 1: 
 
-
-
- - Exercise 1: Is This AI or Not?
-
-
-
- - Exercise 2: Taxonomy of AI
- - Exercise 3: Examples of tasks
-
-III. Philosophy of AI
-
- - Exercise 4: Definitions, definitions
-
-###############################
 
 Chapter 2: AI problem solving
 

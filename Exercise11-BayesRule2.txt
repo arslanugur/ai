@@ -25,7 +25,8 @@ the odds are actually against the person having breast cancer: among the women w
 there are on the average 40 women with breast cancer for every 95 women without breast cancer. 
 Note: If we would like to express the chances of breast cancer given the positive test result as a probability 
 (even though this is not what the exercise asked for), 
-we would consider the 40 cases with cancer and the 95 cases without cancer together, and calculate what portion of the total 40 + 95 = 135 individuals have cancer. 
+we would consider the 40 cases with cancer and the 95 cases without cancer together, 
+and calculate what portion of the total 40 + 95 = 135 individuals have cancer. 
 This gives the result 40 out of 135, or about 30%. 
 This is much higher than the prevalence of breast cancer, 5 in 100, or 5%, but still the chances are that the person has no cancer. 
 If you compare the solution to your intuitive answer, they tend to be quite different for most people. 

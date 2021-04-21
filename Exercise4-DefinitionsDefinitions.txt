@@ -1,0 +1,10 @@
+There is no right or wrong answer, but here’s what we think: “Cool things that computers can't do"
+The good: this adapts to include new problems in the future, captures a wide range of AI such computer vision, natural language processing.
+The bad: it rules out any "solved" problems, very hard to say what counts as "cool". “Machines imitating intelligent human behavior”
+The good: the same as in the previous. Also, imitate is a good word since it doesn't require that the AI solutions should "be" intelligent (whatever it means) and it's instead enough to act intelligently.
+The bad: the definition is almost self-referential in that it immediately leads to the question what is 'intelligent', also this one is too narrow in the sense that it only includes human-like intelligent behavior and excludes other forms of intelligence such as so-called swarm intelligence (intelligence exhibited by for example ant colonies).
+“Autonomous and adaptive systems”
+The good: it highlights two main characteristics of AI, captures things like robots, self-driving cars, and so on, also nicely fits machine learning-based AI methods that adapt to the training data.
+The bad: once again, these lead to further questions and the definition of 'autonomous' in particular isn't very clear (is a vacuum cleaner bot autonomous? How about a spam filter?). 
+Furthermore, not all AI systems need to be autonomous and we can in fact often achieve much more by combining human and machine intelligence.
+

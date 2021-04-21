@@ -1,0 +1,34 @@
+Consider the above breast cancer scenario. 
+An average woman takes the mammograph test and gets a positive test result suggesting breast cancer. 
+What do you think are the odds that she has breast cancer given the observation that the test is positive?
+First, use your intuition without applying the Bayes rule, 
+and write down on a piece of paper (not in the answer box below) what you think the chances of having breast cancer are after a positive test result. 
+The intuitive answer will not be a part of your answer. It will be just for your own information.
+Next, calculate the posterior odds for her having breast cancer using the Bayes rule. This will be your answer.
+Hints:
+- Start by calculating the prior odds.
+- Determine the probability of the observation in case of the event (cancer).
+- Determine the probability of the observation in case of no event (no cancer).
+- Obtain the likelihood ratio as the ratio of the above two probabilities.
+- Finally, multiply the prior odds by the likelihood ratio.
+Enter the posterior odds as your solution below. 
+Give the answer in the form xx:yy where xx and yy are numbers, without simplifying the expression even if both sides have a common factor.
+---> 40:95
+he prior odds describe the situation before getting the test result. Since five out of 100 women have breast cancer, 
+there is on the average five women with breast cancer for every 95 women without breast cancer, and therefore, the prior odds are 5:95. 
+The likelihood ratio is the probability of a positive result in case of cancer divided by the probability of a positive result in case of no cancer. 
+With the above numbers, this is given by 80/100 divided by 10/100, which is 8. 
+The Bayes rule now gives the posterior odds of breast cancer given the positive test result: posterior odds = 8 × 5:95 = 40:95, 
+which is the correct answer. So despite the positive test result, 
+the odds are actually against the person having breast cancer: among the women who are tested positive, 
+there are on the average 40 women with breast cancer for every 95 women without breast cancer. 
+Note: If we would like to express the chances of breast cancer given the positive test result as a probability (even though this is not what the exercise asked for), 
+we would consider the 40 cases with cancer and the 95 cases without cancer together, and calculate what portion of the total 40 + 95 = 135 individuals have cancer. 
+This gives the result 40 out of 135, or about 30%. 
+This is much higher than the prevalence of breast cancer, 5 in 100, or 5%, but still the chances are that the person has no cancer. 
+If you compare the solution to your intuitive answer, they tend to be quite different for most people. 
+This demonstrates how poorly suited out intuition is for handling uncertain and conflicting information.
+
+
+
+

@@ -1,0 +1,22 @@
+Consider the following example tasks. Try to determine which AI-related fields are involved in them. 
+Select all that apply. (Hint: machine learning involves almost always some kind of statistics).
+Note: This exercise is meant to inspire you to think about the different aspects of AI and their role in various applications. 
+As there are no clear-cut answers to many of these questions, this exercise will not be included in the grading. 
+Nevertheless, we suggest that you do your best and try to answer as well as you can, but don't worry if our answers will differ from yours.
+
+- Autonomous car
+Autonomous cars apply a wide range of techniques to function. These include statistics, robotics, and machine learning.
+
+- Steering a rocket into orbit
+In order to steer a rocket into orbit "robotics" are needed to fire the engines at the right times and with the right power.
+
+- Online ad optimization
+In order to optimize ads online, machine learning and statistics are needed to deliver the correct type of ads to the right audience, 
+and to measure the effectiveness of the optimization.
+
+- Customer service chatbot
+A customer service chatbot will need "machine learning" to process human produced language in such a way that it can act on it.
+
+- Summarizing gallup results
+Summarizing gallup results is a classical case of using "statistics" to produce insights.
+

@@ -1,0 +1,41 @@
+For this exercise, remember the key points from the above discussion: probability can be quantified (expressed as a number) 
+and it can be right or wrong. But also keep in mind, 
+that it is usually not possible to draw conclusions about whether a particular number was right or wrong based on a single observation.
+
+Consider the following four probabilistic forecasts and outcomes. 
+What can we conclude based on the outcome about the correctness of the forecasts? 
+Can we conclude that the probability given by the forecast was indeed the correct probability (choose "right"), 
+that the forecast was wrong (choose "wrong"), or can we conclude neither way (choose "cannot be concluded")?
+
+The weather forecast says it's going to rain with 90% probability tomorrow but the day turns out to be all sun and no rain.
+---> Cannot be concluded
+We can't conclude that the weather forecast was wrong based on only the single event. 
+The forecast said it's going to rain with 90% probability, which means it would not rain with 10% probability or in one out of 10 days. 
+It is perfectly plausible that the day in question was the 1 in 10 event. 
+Concluding that the probability 90% was correct would also be wrong because by the same argument, 
+we could then conclude that 80% chance of rain was also correct, and both cannot be correct at the same time.
+
+The weather forecast says it's going to rain with 0% probability tomorrow but the day turns out to be rainy.
+---> Wrong
+The weather forecast was wrong because a 0% probability means that it should definitely not rain. But it did.
+
+Suppose you monitor a weather forecaster for a long time. 
+You only consider the days for which the forecast gives 80% chance of rain. 
+You find that in the long run, on the average it rains on three out of every five days.
+---> Wrong
+The weather forecasts are wrong if they predict 80% chance of rain and it rains only 60% (three out of five) of the time in the long run. 
+(Note that we'd really need to keep track of the accuracy for a long time to reach this conclusion but that's what "in the long run" means.) 
+In practice, weather forecasters actually tend to provide this kind of 'wrong' predictions just to be safe: 
+people are often quite disappointed when the weather turns out to be worse than predicted 
+but pleasantly surprised when it turns out better than predicted.
+
+In the United States presidential election 2016, a well-known political forecast blog, 
+Five-Thirty-Eight, gave Clinton a 71.4% chance of winning (vs Trump's 28.6%). 
+However, contrary to the prediction, Donald Trump was elected the 45th president of the United States.
+---> Cannot be concluded
+Cannot be concluded to be wrong (or right). Sometimes unlikely things happen. 
+Considering the previous item, it would actually have been wrong to predict, say, 
+90% or 100% chance for Trump if there simply isn't enough information available to anticipate the outcome. 
+In other words, perhaps Trump's victory was a rare (or rareish) event with 28.6% probability. 
+Such events are expected to happen in more than one out of four cases, after all.
+

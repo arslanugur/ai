@@ -1,0 +1,26 @@
+As we already mentioned above, the odds 3:1 – for example three rainy days for each rainless day – corresponds to probability 0.75 (or in percentages 75%).
+In general, if the odds in favor of an event are x:y, the probability of the event is given by x / (x+y). Try that with the odds 3:1 if you like. You should get the answer 0.75.
+As we also pointed out, the odds 6:2 corresponds to exactly the same probability as the odds 3:1 because when we let x=6 and y=2, and write them in the formula x / (x+y), we get 6/(6+2), which comes out as 6/8 = 3/4 = 0.75.
+
+Your task:
+For the first three items 1–3, convert from odds to probabilities expressed as natural frequencies; for example from 1:1 to 1/2. Give your answer as a fraction, for example 2/3.
+For the last three items 4–6, convert the odds into probabilities expressed as percentages (e.g. 4.2%). Give your answer in percentages using a single decimal, for example 12.2%.
+Hint: the calculations are to be calculated with a simple calculator and the formulas can be found above.
+
+The odds for getting three of a kind in poker are about 1:46.
+---> There are 46 situations where you do not get three of a kind for one where you get it, so the probability is 1/(1+46) = 1/47
+
+The odds for rain in Helsinki are 206:159
+---> There are 206 rainy days for 159 dry days, so the probability is 206/(206+159) = 206/365
+
+The odds for rain in San Diego are 23:342
+---> There are 23 rainy days for 342 dry days, so the probability is 23/(23+342) = 23/365
+
+The odds for getting three of a kind in poker are about 1:46
+---> Previously we had the probability as 1/(1+ 46) = 1/47, which gives us roughly 0.0213, which rounds to 2.1%
+
+The odds for rain in Helsinki are 206:159
+---> Previously we had the probability as 206/(206 + 159) = 206/365, which gives us roughly 0.5644, which rounds to 56.4%
+
+The odds for rain in San Diego are 23:342
+---> Previously we had the probability as 23/(23 + 342) = 23/365, which gives us roughly 0.0630, which rounds to 6.3%

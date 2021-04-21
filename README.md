@@ -1,6 +1,7 @@
 |Chapter|            Subject          |           Sections             |                RLabs              |             Quiz            |
 | :---: | :-------------------------: | :----------------------------: | :-------------------------------: | :-------------------------: |
-|   1   |         What is AI?        |   I. How should we define AI?n\II. Related fields |[*](https://github.com/arslanugur/)| [Quiz](/01.Introduction.txt)|
+|   1   |         What is AI?         |   I. How should we define AI?
+                                        II. Related fields |[*](https://github.com/arslanugur/)| [Quiz](/01.Introduction.txt)|
 
 
 

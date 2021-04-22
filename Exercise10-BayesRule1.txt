@@ -1,5 +1,5 @@
 https://betterexplained.com/articles/understanding-bayes-theorem-with-ratios/
-
+https://www.youtube.com/watch?v=tRE6mKAIkno
 
 Apply the Bayes rule to calculate the posterior odds for rain having observed clouds in the morning in Helsinki.
 As we calculated above, the prior odds for rain is 206:159 and the likelihood ratio for observing clouds is 9.

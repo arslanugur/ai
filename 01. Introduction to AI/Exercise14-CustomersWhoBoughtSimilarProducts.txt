@@ -1,0 +1,12 @@
+In this exercise, we will build a simple recommendation system for an online shopping application where the users' purchase history is recorded 
+and used to predict which products the user is likely to buy next.
+We have data from six users. 
+For each user, we have recorded their recent shopping history of four items and the item they bought after buying these four items:
+
+User	      Shopping History                           	                            Purchase
+Sanni	      boxing gloves	Moby Dick (novel)	headphones	sunglasses	                coffee beans
+Jouni	      t-shirt	coffee beans	coffee maker	coffee beans	                      coffee beans
+Janina	    sunglasses	sneakers	t-shirt	sneakers	ragg wool                       socks
+Henrik	    2001: A Space Odyssey (dvd)	headphones	t-shirt	boxing gloves	          flip flops
+Ville	      t-shirt	flip flops	sunglasses	Moby Dick (novel)	                      sunscreen
+Teemu	      Moby Dick (novel)	coffee beans	2001: A Space Odyssey (dvd)	headphones	coffee beans

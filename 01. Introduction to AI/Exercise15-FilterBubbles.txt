@@ -1,0 +1,22 @@
+As discussed above, recommending news or social media content that a user is likely to click or like, 
+may lead to filter bubbles where the users only see content that is in line with their own values and views.
+
+1. Do you think that filter bubbles are harmful? 
+After all, they are created by recommending content that the user likes. 
+What negative consequences, if any, may be associated with filter bubbles? 
+Feel free to look for more information from other sources.
+2. Think of ways to avoid filter bubbles while still being able to recommend content to suit personal preferences. 
+Come up with at least one suggestion. You can look for ideas from other sources, but we'd like to hear your own ideas too!
+
+Note: your answer should be at least a few sentences for each part.
+
+---> Filters as such are useful. They recommend content such as music that we like. 
+The bubble phenomenon, where users get a biased view of facts and opinions, on the other hand, is clearly harmful. 
+There are no "alternative facts" – the alternative of a fact is not a fact – but information is always presented from some point of view. 
+If we are not exposed to more than one point of view, we can easily end up holding a biased worldview.
+Getting completely rid of filter bubbles is probably not a good idea. After all, we have always liked different things and been interested in different things. 
+In the days of print media, the newspaper that we'd read was our filter bubble, which made sure that the bubble didn't get too small.
+We believe that the first step to avoid the harmful effects of filter bubbles is to recognize when we are inside one. 
+To this end, it is helpful if the applications we use clearly indicate that the recommendations that we see don't represent a balanced overall view to the content. 
+This can be achieved by letting the user explore the content also through other views than a list of recommendations. 
+In Spotify, you can choose music based on its genre, and Netflix and HBO provide recommendations in various different categories.

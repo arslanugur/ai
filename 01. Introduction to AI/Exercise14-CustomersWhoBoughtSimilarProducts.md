@@ -38,8 +38,10 @@ Proceed as follows:
  - Predict what Travis is likely to purchase next by looking at the most recent purchase (the rightmost column in the table) of the most similar user from the previous step.
  
 Who is the user most similar to Travis?  ---> Ville
+
 When you calculate the similarities between Travis and all the other users,
 Ville and Travis will have the largest similarity with a similarity of 3.
 
 What is the predicted purchase for Travis? ---> sunscreen
+
 Since Ville's latest purchase was sunscreen, we will recommend it also to Travis.

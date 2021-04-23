@@ -32,4 +32,4 @@ What state should be in box 4?
 What state should be in box 5?
 ---> State C
 What state should be in box 6?
----> State A
+---> State A.

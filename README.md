@@ -10,18 +10,11 @@ Elements of Artificial Intelligence by University of Helsinki
 |   3   |         Real world AI         |   I. Odds and probability |[Exercise 8: Probabilistic forecasts](/Exercise08-ProbabilisticForecasts.txt), [Exercise 9: Odds](/Exercise09-Odds.txt)| 
 |   3   |         Real world AI         |   II. The Bayes rule      |[Exercise 10: Bayes rule (part 1)](/Exercise10-BayesRule1.txt), [Exercise 11: Bayes rule (part 2)](/Exercise11-BayesRule2.txt)| 
 |   3   |         Real world AI         |   III. Naive Bayes classification |[Exercise 12: One word spam filter](/Exercise12-OneWordSpamFilter.txt), [Exercise 13: Full spam filter](/Exercise13-FullSpamFilter.txt)| 
+|   4   |         Machine learning     |   I. The types of machine learning |[-](https://github.com.7arslanugur)| 
+|   4   |         Machine learning     |   II. The nearest neighbor classifier |[Exercise 14: Customers who bought similar products](/Exercise14-CustomersWhoBoughtSimilarProducts.md), [Exercise 15: Filter Bubbles](/Exercise15-FilterBubbles.txt)| 
+|   4   |         Machine learning     |   III. Regression |[---](/Exercise01-IsThisAIorNot.txt)| 
 
 
-
-Chapter 4: Machine learning
-
-I. The types of machine learning
-
-II. The nearest neighbor classifier
-
-III. Regression
-
-###############################
 
 Chapter 5: Neural networks
 

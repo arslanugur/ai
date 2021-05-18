@@ -12,24 +12,11 @@
 |   3   |         Real world AI         |   III. Naive Bayes classification |[Exercise 12: One word spam filter](/01.%20Introduction%20to%20AI/Exercise12-OneWordSpamFilter.txt), [Exercise 13: Full spam filter](/01.%20Introduction%20to%20AI/Exercise13-FullSpamFilter.txt)| 
 |   4   |         Machine learning     |   I. The types of machine learning |[-](https://github.com.7arslanugur)| 
 |   4   |         Machine learning     |   II. The nearest neighbor classifier |[Exercise 14: Customers who bought similar products](/01.%20Introduction%20to%20AI/Exercise14-CustomersWhoBoughtSimilarProducts.md), [Exercise 15: Filter Bubbles](/01.%20Introduction%20to%20AI/Exercise15-FilterBubbles.txt)| 
-|   4   |         Machine learning     |   III. Regression |[---](/01.%20Introduction%20to%20AI/Exercise01-IsThisAIorNot.txt)| 
+|   4   |         Machine learning     |   III. Regression |[---]()| 
+|   5   |         Neural networks     |   I. Neural network basics |[---]()| 
+|   5   |         Neural networks     |   II. How neural networks are built |[---]()| 
+|   5   |         Neural networks     |   III. Advanced neural network techniques |[---]()| 
+|   6   |         Implications     |   I. About predicting the future |[---]()| 
+|   6   |         Implications     |   II. The societal implications of AI |[---]()| 
+|   6   |         Implications     |   III. Summary |[---]()| 
 
-
-
-Chapter 5: Neural networks
-
-I. Neural network basics
-
-II. How neural networks are built
-
-III. Advanced neural network techniques
-
-###############################
-
-Chapter 6: Implications
-
-I. About predicting the future
-
-II. The societal implications of AI
-
-III. Summary

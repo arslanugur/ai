@@ -10,7 +10,7 @@
 |   3   |         Real world AI         |   I. Odds and probability |[Exercise 8: Probabilistic forecasts](/01.%20Introduction%20to%20AI/Exercise08-ProbabilisticForecasts.txt), [Exercise 9: Odds](/01.%20Introduction%20to%20AI/Exercise09-Odds.txt)| 
 |   3   |         Real world AI         |   II. The Bayes rule      |[Exercise 10: Bayes rule (part 1)](/01.%20Introduction%20to%20AI/Exercise10-BayesRule1.txt), [Exercise 11: Bayes rule (part 2)](/01.%20Introduction%20to%20AI/Exercise11-BayesRule2.txt)| 
 |   3   |         Real world AI         |   III. Naive Bayes classification |[Exercise 12: One word spam filter](/01.%20Introduction%20to%20AI/Exercise12-OneWordSpamFilter.txt), [Exercise 13: Full spam filter](/01.%20Introduction%20to%20AI/Exercise13-FullSpamFilter.txt)| 
-|   4   |         Machine learning     |   I. The types of machine learning |[-](https://github.com.7arslanugur)| 
+|   4   |         Machine learning     |   I. The types of machine learning |[-](https://github.com/arslanugur)| 
 |   4   |         Machine learning     |   II. The nearest neighbor classifier |[Exercise 14: Customers who bought similar products](/01.%20Introduction%20to%20AI/Exercise14-CustomersWhoBoughtSimilarProducts.md), [Exercise 15: Filter Bubbles](/01.%20Introduction%20to%20AI/Exercise15-FilterBubbles.txt)| 
 |   4   |         Machine learning     |   III. Regression |[---]()| 
 |   5   |         Neural networks     |   I. Neural network basics |[---]()| 

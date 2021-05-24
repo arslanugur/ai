@@ -1,0 +1,20 @@
+In the previous exercise, we only had data from three countries. 
+The full data set consists of data from 14 different countries, presented here in a graph:
+
+Based on this data, would your prediction about the life expectancy of people with 15 years of education change? If so, why?
+
+Which of the following options would best match your estimate of the life expectancy for people with 15 years of education? 
+Choose the most specific option that you think is justified by fitting the straight line model to the above data.
+
+Answer: Probably between 50 and 90 years
+
+The first choice would clearly be an odd estimate since the data strongly suggest that
+very few countries have life expectancy less than 50, and none of the data points with more than 12 years of education fall below 50. 
+We can't be sure, of course, but life expectancy between 45 and 50 years would in this case be highly unexpected. 
+The second choice is correct because it fits the general trend, and all data points with more than 12 years of education fall within this interval.
+The interval 69 to 71 years in the third choice could well include the actual value, 
+but based on the above data, it would be too bold to claim to know the outcome with such high accuracy. 
+The interval 15 to 150 years of the fourth choice would almost certainly include the actual value, 
+but we think that it would be a poor summary of what we can learn from the data for the reason that it is too vague.
+
+

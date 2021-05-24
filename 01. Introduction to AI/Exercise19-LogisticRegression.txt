@@ -1,0 +1,26 @@
+Each dot on the figure corresponds to one student. 
+On the bottom of the figure we have the scale for how many hours the student studied for the exam, 
+and the students who passed the exam are shown as dots at the top of the chart, 
+and the ones who failed are shown at the bottom. 
+We’ll use the scale on the left to indicate the predicted probability of passing, 
+which we’ll get from the logistic regression model as we explain just below. 
+Based on this figure, you can see roughly that students who spent longer studying had better chances of passing the course. 
+Especially the extreme cases are intuitive: with less than an hour’s work, it is very hard to pass the course, 
+but with a lot of work, most will be successful. 
+But what about those that spend time studying somewhere inbetween the extremes? If you study for 6 hours, what are your chances of passing?
+
+We can quantify the probability of passing using logistic regression. 
+The curve in the figure can be interpreted as the probability of passing: 
+for example, after studying for five hours, the probability of passing is a little over 20%. 
+We will not go into the details on how to obtain the curve, but it will be similar to how we learn the weights in linear regression.
+
+If you wanted to have an 80% chance of passing a university exam, based on the above figure, how many hours should you approximately study for?
+
+Answer: 10-11 hours
+
+The other answers give roughly a 30%, a 50%, and a 70% chance of passing respectively. 
+To have an 80% chance of passing, you should study for around 10-11 hours.
+
+Logistic regression is also used in a great variety of real-world AI applications such as predicting financial risks, in medical studies, and so on.
+However, like linear regression, it is also constrained by the linearity property and we need many other methods in our toolbox. 
+We will return to the linearity issue later when we discuss neural networks.

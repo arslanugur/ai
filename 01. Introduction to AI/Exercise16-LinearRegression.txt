@@ -1,0 +1,35 @@
+Suppose that an extensive study is carried out, and it is found that in a particular country, 
+the life expectancy (the average number of years that people live) among non-smoking women who don't eat any vegetables is 80 years. 
+Suppose further that on the average, men live 5 years less. 
+Also take the numbers mentioned above: every cigarette per day reduces the life expectancy by half a year, 
+and a handful of veggies per day increases it by one year.
+
+Calculate the life expectancies for the following example cases:
+
+For example, the first case is a male (subtract 5 years), smokes 8 cigarettes per day (subtract 8 × 0.5 = 4 years), 
+and eats two handfuls of veggies per day (add 2 × 1 = 2 years), so the predicted life expectancy is 80 - 5 - 4 + 2 = 73 years.
+
+Gender	Smoking (cigarettes per day)	Vegetables (handfuls per day)	Life expectancy (years)
+male	  8	                             2                           	73
+male	  0	                             6                          	A
+female	16	                           1                          	B
+female	0	                             4                           	C
+
+Your task: Enter the correct value as an integer (whole number) for the missing sections A, B, and C above.
+
+ A: 80 - 5 + 6 = 81
+ B: 80 - 8 + 1 = 73
+ C: 80 + 4 = 84
+ 
+ In the above exercise, the life expectancy of non-smoking, veggie-hating women, 80 years, was the starting point for the calculation. 
+ The technical term for the starting point is the intercept. 
+ We will return to this below when we discuss how to learn linear regression models from data.
+
+Learning linear regression
+Above, we discussed how predictions are obtained from linear regression when both the weights and the input features are known. 
+So we are given the inputs and the weight, and we can produce the predicted output.
+
+When we are given the inputs and the outputs for a number of items, 
+we can find the weights such that the predicted output matches the actual output as well as possible. This is the task solved by machine learning.
+
+

@@ -1,6 +1,5 @@
 # Classificaton of Machine Learning Algorithms
-|Supervised Learning|Supervised Learning| Unsupervised Learning|Reinforcement Learning|
-|Classification|Regression|Clustering|Q-Learning|
+|[Classification] (Supervised)|[Regression] (Supervised)|[Clustering] (Unsupervised)|[Q-Learning] (Reinforcement)|
 |:-----------------:|:-:|:----------------:|:---------------:|
 |Naive Bayes|Generalized Linear Models|K-Means, Fuzzy Means|Policy Gradient|
 |Support Vector Machines|Logistic Regression|Gaussian Mixture|Trust Region Policy Optimization|

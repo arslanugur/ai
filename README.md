@@ -1,3 +1,13 @@
+# Classificaton of Machine Learning Algorithms
+|Supervised Learning|Supervised Learning| Unsupervised Learning|Reinforcement Learning|
+|Classification|Regression|Clustering|Q-Learning|
+|:-----------------:|:-:|:----------------:|:---------------:|
+|Naive Bayes|Generalized Linear Models|K-Means, Fuzzy Means|Policy Gradient|
+|Support Vector Machines|Logistic Regression|Gaussian Mixture|Trust Region Policy Optimization|
+|K-Nearest Neighborhood|Support Vector Regression, Gaussian Process Regression|Hidden Markov Model|Proximal Policy Optimization|
+|Decision Trees, Random Forest|Ensemble Methods|Spectral Clustering|Hindsight Experience Replay|
+|Neural Network|Neural Network|Neural Network|Deep Q Neural Network|
+
 # Elements of Artificial Intelligence by University of Helsinki
 |Chapter|            Subject          |           Section             |                Exercise              |
 | :---: | :-------------------------: | :----------------------------: | :-------------------------------: |

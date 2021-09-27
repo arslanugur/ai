@@ -4,9 +4,12 @@ Machine Learning Basics
       #numpy is used for computations of numerical data, 
       #matplotlib is used for graphing data, and scikit-learn is used for machine learning models. 
 
-      #Supervised learning is when we have a known target based on past data (for example, predicting what price a house will sell for)
+      #Supervised learning is when we have a known target based on past data 
+      #(for example, predicting what price a house will sell for)
       #deal with Prediction
-      #Unsupervised learning is when there isn't a known past answer (for example, determining the topics discussed in restaurant reviews)
+      
+      #Unsupervised learning is when there isn't a known past answer 
+      #(for example, determining the topics discussed in restaurant reviews)
       #deal with Deduction
       
       #Supervised Learning
@@ -41,18 +44,5 @@ Machine Learning Basics
         #Predicting if a credit card charge is fraudulent  
       
 
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
       
       

@@ -1,7 +1,7 @@
 The Basics
 01. Welcome to Machine Learning
-02. What is Machine Learning?
-03. Statistics Review
+02. Statistics Review
+
 04. Reading Data with Pandas
 05. Manipulating Data with Pandas
 06. Numpy Basics

@@ -122,7 +122,7 @@ population density
        #16.66 to 29.34 We easily calculate it 29.34 is 79th percentile 
        #And 16.66 is almost 11th percentile And the 79-11=68% shaded area
       
-
+       #https://www.mathsisfun.com/data/standard-deviation.html
       
       
         

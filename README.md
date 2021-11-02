@@ -7,6 +7,17 @@
 |Decision Trees, Random Forest|Ensemble Methods|Spectral Clustering|Hindsight Experience Replay|
 |Neural Network|Neural Network|Neural Network|Deep Q Neural Network|
 
+# Artificial Intelligence on HackerRank
+- 01. Bot Building
+- 02. A* Search
+- 03. Alpha Beta Pruning
+- 04. Combinatorial Search
+- 05. Games
+- 06. Statistics and Machine Learning
+- 07. Digital Image Analysis
+- 08. Natural Language Processing
+- 09. Probability & Statistics - Foundations 
+
 # Elements of Artificial Intelligence by University of Helsinki
 |Chapter|            Subject          |           Section             |                Exercise              |
 | :---: | :-------------------------: | :----------------------------: | :-------------------------------: |

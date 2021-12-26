@@ -1,0 +1,54 @@
+# TURING TEST
+          Computer        Human Responder       Interrogator
+          Player A        Player B              Player C
+
+            A ---> C        --  Answer to Question
+            B ---> C        --  Answer to Question
+            C ---> A        --  Question to Respondents
+            C ---> B        --  Question to Respondents
+
+
+# AI > ML > DL
+          Artificial Intelligence -- Programs with the ability to learn and reason like humans
+                 Machine Learning -- Algorithms with the ability to learn without being explicitly programmed
+                    Deep Learning -- Subset of ml in which artificial neural networks adapt and learn from vast amounts of data
+
+
+# Source Code (Any Syntax Code) --> Compiler --> Binary Code --> with CPU --> Output 
+
+
+# Akıllı Ajanlar
+
+    AJANIN YAPISI
+                                              (göz, kulak..)
+                                              (Kamera, Sensör)
+                                              Algılayıcı   <--- Algılar
+    Ajan --> Tepki vermeli? (Ne yapmalı?) ---|                             | Ortam
+                                              Tepkiverici  ---> Hareketler
+                                              (mekanik kollar, motorlar)  ---> Robot Ajan
+                                              (el, ayak, ağız)  --> İnsan Ajan
+                                  
+    * Ne yapmalı sorusuna ortamdan alınan verileri yazılım ile düşünme fonksiyonu donanım ile hareket cevap verilir.
+    
+    
+    İnsan gibi düşünmek (duygu, his, mantık) # Rasyonel düşünmek (sadece mantık - bir değer olmalı ve ondan bir çıkarımda bulunmak)
+    İnsan gibi hareket etmek # Rasyonel hareket etmek (En iyi fonksiyona aksiyona göre hareket etmek)
+
+    AJANIN BAŞARI KRİTERLERİ
+    - Başarı kriterini tanımlayan performans ölçüsü (fabrika bandından gelen malzemenin defolu kusurlu olup olmamasını seçen robot)
+    - Ajanın çevreyle ilgili ön bilgisi (topu kutuya atan robot)
+    - Ajanın gerçekleştirebileceği eylemler (banttan top gelecek bunu kamera ve sensörler ile görüp verileri algılayıp yazılım ile hatalı olanı bulup)
+    - Ajanın bugüne kadarki algılama dizisi (Ajanın başarı kriterleri)
+    
+# Çevre Türleri
+    - Tamamen Gözlemlenebilir Ortam   --> Satranç tahtası
+    - Tamamen Gözlemlenemeyen Ortam   --> Araç sürüşü (her an fark lı bir durum)
+    
+    Statik          ortam değişmez (Satranç)
+    Yarı Dinamik    ortam değişmez ama zamanla ajanın performansı değişir
+    Dinamik         ajan çalışırken ortamın değişmesi
+    
+# Deterministik 
+
+2:43
+

@@ -20,7 +20,7 @@ Supervised Learning
 			Features = predictor variables = independent variables
 			Target variable = dependent variable = response variable
 
-    - Automate time-consuming or expensive manual tasks
+    		- Automate time-consuming or expensive manual tasks
 			Ex: Doctor's Diagnosis
 		- Make Predictions about the future
 			Ex: Will a customer click on an ad or not?
@@ -29,11 +29,11 @@ Supervised Learning
  			Experiments to get labeled data
 			Crowd-sourcing labeled data 
       
-      Supervised learning in Py
-	      - We will use scikit-learn/sklearn
-		      - Integrates well with the Scipy stack
-	          - TensorFlow
-	          - Keras
+      		Supervised learning in Py
+	     		 - We will use scikit-learn/sklearn
+		     		 - Integrates well with the Scipy stack
+	          	 - TensorFlow
+	        	 - Keras
             
 	Unsupervised Learning 	: Uses unlabeled data
 		- Uncovering hidden patterns from unlabeled data
@@ -45,6 +45,22 @@ Supervised Learning
 				   Applications: Economics, Genetics, Game Playing, AlphaGo: 1st computer to defeat the world champion in Go
            
            
-           
-           
-           
+
+# Which of these is a classification problem?
+	Once you decide to leverage supervised machine learning to solve a new problem, 
+	you need to identify whether your problem is better suited to classification or regression. 
+	This exercise will help you develop your intuition for distinguishing between the two.
+
+	A supervised classification problem: Using labeled financial data to predict whether the value of a stock will go up or go down next week.  
+	 In this example, there are two discrete, qualitative outcomes: 
+	 the stock market going up, and the stock market going down. 
+	 This can be represented using a binary variable, and is an application perfectly suited for classification.
+	 
+	 In each of the examples, think about what is being predicted. 
+	 Is this predicted value quantitative or qualitative? 
+	 In classification problems, the outcome is qualitative - that is, it can be described using a categorical variable.
+	 
+	 
+	 
+	 
+	 

@@ -1,0 +1,50 @@
+Supervised Learning
+-What is ML?
+	The art and science of:
+		Giving computers the ability to learn to make decisions from data
+		Without being explicitly programmed
+	Examples
+		Learning to predict whether an email is spam or not
+		Clustering wikipedia entries into different categories
+    
+    
+    
+    
+	Supervised Learning	: Uses labeled data
+		- predictor variables/features and a target variable
+		- Aim: Predict the target variable, given the predictor variables
+			Classification: Target variable consists of categories
+			Regression: Target variable is continuous
+
+		- Naming Conventions
+			Features = predictor variables = independent variables
+			Target variable = dependent variable = response variable
+
+    - Automate time-consuming or expensive manual tasks
+			Ex: Doctor's Diagnosis
+		- Make Predictions about the future
+			Ex: Will a customer click on an ad or not?
+		- Need Labeled Data
+			Historical Data with labels
+ 			Experiments to get labeled data
+			Crowd-sourcing labeled data 
+      
+      Supervised learning in Py
+	      - We will use scikit-learn/sklearn
+		      - Integrates well with the Scipy stack
+	          - TensorFlow
+	          - Keras
+            
+	Unsupervised Learning 	: Uses unlabeled data
+		- Uncovering hidden patterns from unlabeled data
+		- Example: Grouping customers into distinct categories (Clustering)
+	Reinforcement Learning	: Software agents interact with an environment
+					- learn how to optimize their behaviour
+					- given a system of rewards and punishments
+					- draws inspiration from behavioral psychology
+				   Applications: Economics, Genetics, Game Playing, AlphaGo: 1st computer to defeat the world champion in Go
+           
+           
+           
+           
+           

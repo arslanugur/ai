@@ -1,0 +1,113 @@
+Yapay Zeka: Veri Analizi (Big Data), Öğrenme (Machine Learning), Problem Çözme (Mathematics), Karar verme (Statistics) makinesi
+  Bir dizi görevi gerçekleştirmek için "veri üzerinde karmaşık matematiksel modeller ve algoritmalar kullanarak" insan benzeri akıl ve zeka düşünme yeteneği sağlar
+  Zeka değil, Tahmin yeteneği
+  Veri: Bilgi/Stratejik bir kaynak - sayı, metin, ses, görüntü...
+  artificialis - işlemeye, ustalıkla üretilmiş ve ya yapay olan
+  intelligentia - anlama, kavrama, zeka
+
+# AI/Data Usage Fields:
+  Pazar Trendleri, Rekabet Analizi, Innovation, Making Decision, Risk Analizi ve Tahmini,
+  Automation Technologies
+    IBM Watson: Health, Finance, Education
+    Tesla: Otomobil Otomasyon Technogies
+    Amazon: Amazon Öneri Motoru / Recommendation System
+    Google: Translation (sentence, Context)
+    Netflix: Recommendation System - UX algoritmaları
+    Logistik ve Depolamada kullanılan sensör robotlar: Ev robotları: Roomba by i-robot
+    Yapay Zeka, Otomasyon değil.. Endüstriyel İşlemler: Verimlilik, Kalite Kontrol
+    Finance: Müşteri Hizmetleri - Chatbots, Sesli Asistanlar
+    ImageNet - Object Detection - Görüntü işleme, nesne tanıma
+        Large Scale Visual Recognition Challenge by ImageNet: nesne tespiti, hedef takibi, nesne sınıflandırma
+    Apple: Siri - doğal dil işleme
+    NEIL - görüntü ilişkilerini karşılaştırıp analiz etmek
+    Microsoft: Cortana
+    Amazon: Alexa
+    Google: Deepmind - AlphaGo
+    Google: Home
+    Google: BERT
+    Samsung: Bixby
+    Open AI - gpt-3
+    Open AI - Dall-e
+    Black Box - Neural Networks
+    Neuralink - insan beynine çip
+    AWS - Cloud Computing...
+
+# Usage Fields
+  Health                neural networks, deep learning
+  Otonom Vehicles       Self-Driving and üretim hattı otonomları
+  Banking and finance   Trading, fraud, chatbot
+  Gözetim - Detection   face detection
+  Social Media          instagram keşfet
+  Entertainment         recommendation
+  Education             sınav notları analizi
+  Space                 mars rover
+  Oyun                  oyundaki botlar. strateji geliştiren ajanlar
+  Robotik               otonom
+  Agriculture           tahminsel analiz, ürün ve toprak izleme
+  E-Commerce            reklam... araştırdığın şeyler karşına çıkması... recommendation
+  Defense               insansız hava araçları, uydu görüntülerinden analiz
+
+
+
+# Derin Öğrenme Yöntemleri (Big Data)
+  Derin öğrenme ve Sınırlamaları
+  İnsan sınırlı bilgiyle öğrenebilir ama makine için kaynak daha fazla ihtiyaç
+  percepton - neutral networks - sinir hücreleri
+  jeff dean and andrew ng - youtube 10m unlabelled image - cat image 16k işlemcili sinir ağı training
+  Google: TPU - chip - to train ml models
+  Google: AlphaStar
+  
+
+# Languages: Lisp
+    Program: Student - natural language Processing
+    Program: Eliza --> ALICE
+
+
+# AI Systems
+  Özellikler:
+  - Öğrenme Yeteneği
+    AI          big data sets training: öğrenme ve adaptasyon yeteneğine sahiptir, büyük veri kümeleri üzerinde eğitilir ve öğrenir.
+    Non-AI      önceden belirlenmiş kurallara göre işlev görür. değişiklik veya öğrenme yeteneği sınırlıdır
+                hesap makinesi, muhasebe programları
+  - Karar alma yeteneği
+    AI          kararlarını verilerden çıkarır ve doğru sonuçları tahmin eder
+    Non-AI      velirlenen kurallara gmre karar alır ve önceden tanımlanmış senaryolara uygun hareket eder
+  - Esneklik    various data types, variables
+    AI          çeşitli veri türlerine ve değişken durumlara uyum sağlayabilir
+    Non-AI      belirlenen parametreler ve kurallar içinde çalışır. değişen koşullara uyum sağlama yeteneği sınırlıdır.
+  - Zaman ve Hız
+    AI          genellikle eğitim v eöğrenme süreçleri zaman alır. kararlar bazen hesaplama gücüne bağlı olarak yavaş olabilir.
+    Non-AI      hızlı ve hemen cevap verme yeteneğine sahiptir. kararlar anında alınabilir.
+
+
+
+
+
+# Temel Kavramlar
+  AI Types
+    Skills
+      1. Dar Yapay Zeka    :  Sesli asistanlar, Recommendation, Görüntü Tanıma         
+      2. Genel Yapay Zeka
+      3. Süper Yapay Zeka
+    Functions
+      Reactive Machine        : uzmanlık - satranç oyuncusu - hamleler
+          --> Sınırlı Bellek  : konum verilerine dayanarak restoran bilgisi - konuma erişim..
+      Öz Farkındalık
+          --> Zihin Teorisi
+      
+  AI Subfields
+    Machine Learning                : email scam filtering
+      Deep Learning                 : ml technique - neural networks, big data 
+        Neural Networks             : görüntü ve metin tanıma, mathematical models
+    Natural Language Processing     : translation
+    Expert System                   : symptom detection          
+    Fuzzy Logic/Bulanık Mantık      : kesin olmayan veriler: araba kliması - dış ortam sıcaklığına göre iç ortam oto ayarlama
+    Robotics                        : endüstriyel robotlar, montaj ve üretim hattı
+    Bilgisayarlı Görü               : sensör verilerinin işlenmesi, güvenlik kamera yüz tanıma
+    Bilişsel Bilişim                : insan benzeri analiz..
+
+  Data Science: Veri Bilimi
+
+
+
+

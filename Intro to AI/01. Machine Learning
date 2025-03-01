@@ -49,7 +49,7 @@ bilgi işleme         veri işleme
   Unsupervised: Clustering                    features xxxx no labels   kümeleme 
   Reinforcement:  no data, simulation: deneme yanılma, agents, belirli bir ortam ve belirli bir hedef için farklı eylemler yapılıyor
         ---> Environment --->
-       |          |          |
+       |          |          |        SIMULATION
        |          |          |
     action     feedback    state
        |          |          |
@@ -66,6 +66,83 @@ bilgi işleme         veri işleme
     labelled data: her girdiye karşılık gelen, bir çıktı etiketi bulunur.
     input = features      output=labels
     bir kuyruk --> bu kuyruk kediye ait olduğunu biliyorsan supervised, bilmiyorsan unsupervised
+
+    Ana adımları - Süreç nasıl işler
+    - Veri toplama ve Hazırlığı
+    - Model Seçimi ve eğitimi
+    - Model değerlendirme/doğrulama/test
+    - Model ayarlaması ve hiperparametre optimizasyonu * * *
+
+    Gözetimli öğrenme: sınıflandorma ve regresyon gibi çeşitli problemleri çözmek için kullanılır
+      Hastalık teşhisi, müşteri tercihlerini tahmin etmek, pazar segmentasyonu, hisse senedi fiyat tahmini
+      Sınıflandırma: tür sınıflandırır  --> categoric
+      Regresyon: sayısal değerleri tahmin eder  --> numeric: stocks..
+
+      Labelled Data: ABACCBCBA
+      Labels: ABC
+      Model: ?
+      Test Veri Seti: ABC
+      Prediction: A-1,B-2,C-3
+
+    * Linear Regression (numeric problem)
+      makine öğrenmesinde, Sürekli çıktı(numeric) değerlerini tahmin etmek için kullanılan algoritma
+      x'i biliyorsan y'yi tahmin etmeye çalırsın
+      Ev fiyatlarını tahmin..
+        features: büyüklük, konum, oda sayısı - input
+        label: price (numeric problem) - output
+
+    * Logistic Regression
+      makine öğrenmesinde, Sınıflandırma problemlerini çözmek etmek için kullanılan algoritma
+      bir veri noktasının belirli bir kategoriye ait olma olasılığını tahmin etmek
+      email spam or not?
+      neural networks aslında logistik regression temelli
+
+    * Decision Trees
+      sınıflandırma ve regresyon problemlerini çözmek için kullanılan bir algoritma
+      karar ağacı, veri kümesindeki özellikleri değerlerine göre bir dizi karar düğümü oluşturarak veriyi sınıflandırır veya regresyon yapar.
+      Karar ağacı temelli çÇeşitli Varyasyonlar/algoritmalar: Rasgele Ormanlar, Gradient boosting 
+      Parameters: kaç tane node/seviye olacak?
+
+    * Random Forests
+      Rasgele ormanlar, bir ensemble learning yöntemi olan karar ağaçlarının bir türüdür.
+      birden fazla karar ağacını bir araya getirerek daha güçlü ve hassas bir model oluştururlar.
+      her bir ağaç, rasgele seçilen özellikleriden oluşturulur ve bağımsız olarak eğitilir.
+        bu, her bir ağacın farklı bir özellik alt kümesine dayalı olarak öğrenme yeteneğine sahip olmasını sağlar.
+
+    * Support Vector Machines (SVM)
+      Destek Vektör Makineleri, hem sınıflandırma hem de regresyon problemleri için kullanılan güçlü bir makine öğrenme algoritmasıdır.
+      SVM'de veri noktalarını sınıflandırma veya regresyon hedeflerini ayırmak için bir hiperdüzlem veya karar sınırı oluşturarak çalışır
+      karar sınırı ile veri setinin farklı etiketler arasında bir düzlem oluşturuluyor. çok boyuluysa buna hiperdüzlem deniyor
+      bu şekilde veriler birbirinden ayrılmış olur
+
+    * Naive Bayes
+      Sınıflndırma problemleri için kullanılan bir algoritma
+      bu algoritma, bayes teoreminin temelini oluşturur ve bağımsızlık varsayımı yaparak basit ve etkili bir şekilde çalışır.
+
+    * K-Nearest Neighbors
+      K - matematiksel olraka uzaklık bildiren birim.
+      K-En yakın komşu algoritması sınıflandırma ve regresyon problemlerinde kullanılır.
+      bu algoritma,  bir veri noktasını sınıflandırmak veya bir değer tahmin etmek için en yakın komşuların çoğunluğuna dayanır.
+
+    * Gradient Boosting
+      bu da ensemble learning algoritmaları
+      karmaşık tahmin modelleri oluşturmak için kullanılan güçlü bir makine öğrenme tekniği
+      zayıf tahmin modellerini bir araya getirerek güçlü bir tahmin modeli oluştururlar..
+      ağırlıklı olarak sınıflandırma ve regresyon problemlerini için kullanılır ve genellikle yüksek doğruluk sağlar.
+      gradient boosting algolarının en yaygın kullanıları arasında Gradient Boosted Trees (GBT) ve XGBoost bulur..
+      bu algoritmalar önceki modellerin hatalarına odaklanarak ardışık olarak modeller oluşturur ve veriler sayesinde her adımda hataları en aza indirmeye çalışır.
+      hataları en aza indirmeye çalışmak = learning
+      
+
+# Gözetimsiz öğrenme ve Algoritmaları
+      Etiketlenmemiş veri kümesi içerisinde yapılan makine öğrenmesi yaklaşımı
+      sadece features var, label yok
+      
+
+
+
+
+
 
 
 

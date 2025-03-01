@@ -1,0 +1,105 @@
+
+# Learning Ways
+Human                Machine
+----------------------------
+Deneyim              Desenler
+Gözlem               Hatalar
+Etkileşim            Veri setleri
+Deneme Yanılma       Deneme yanılma
+Desenler
+Hata ve Feedback     Backward Propagation
+bilgi işleme         veri işleme
+
+
+# Machine Learning
+  1. Models
+    2. Parameters
+      3. Optimization
+
+  Example:
+    Data Set
+      Model:  KNN
+      Parameter: K (integer)
+      Optimization: K'yı belirle/ayarla
+      KNN modeli öğrenmesi bu şekilde olur
+
+
+# Methods and Models
+
+  - Terminology
+    Model/Hypothesis - Model
+    Feature - Öznitellik
+    Training - Eğitim
+    Prediction - Tahmin
+    Label - Hedef
+
+    model: bir algoritma, bir veri seti ile birleşirse oluşur.
+      KNN + dataset = model
+    feature: kedi ve köpek arasındaki farklar -- input set: renk, kuyruk uzunluğu, ağırlık...
+
+      örnek proje: görsel tanıma kullanarak ağırlık tahmini
+    prediction: output (label-hedef)
+
+  - methods
+  Supervised Learning    : Gözetimli     Model training with labelled data
+  Unsupervised Learning  : Gözetimsiz    Model training with unlabelled data    
+  Reinforcement Learning : Pekiştirmeli  Model take actions in the environment then received state updates and feedbacks  Example: Defense Game
+
+  Supervised: Classification, Regression      features <--> labels      hastalık teşhisi, fiyat tahmini
+  Unsupervised: Clustering                    features xxxx no labels   kümeleme 
+  Reinforcement:  no data, simulation: deneme yanılma, agents, belirli bir ortam ve belirli bir hedef için farklı eylemler yapılıyor
+        ---> Environment --->
+       |          |          |
+       |          |          |
+    action     feedback    state
+       |          |          |
+       |          v          |
+        <--- model agent <---
+
+
+    AlphaGo: Supervised, Reinforcement
+    Video Game Bots: Reinforment
+    Robotic - Cisim alıp koyması: Reinforcement
+
+
+# Gözetimli öğrenme ve Algoritmaları
+    labelled data: her girdiye karşılık gelen, bir çıktı etiketi bulunur.
+    input = features      output=labels
+    bir kuyruk --> bu kuyruk kediye ait olduğunu biliyorsan supervised, bilmiyorsan unsupervised
+
+
+
+https://www.btkakademi.gov.tr/portal/course/player/deliver/yapay-zekaya-giris-29193
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
